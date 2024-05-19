@@ -28,7 +28,6 @@ body {
 }
 
 .Dropdown {
-  backdrop-filter: blur(10px);
   width: auto;
   height: auto;
   transition: all 1s steps(0, end);
